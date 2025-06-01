@@ -1,0 +1,15 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <sys:String x:Key="Register">Регистрация</sys:String>
+    <sys:String x:Key="Login">Вход</sys:String>
+    <sys:String x:Key="Name">Название</sys:String>
+    <sys:String x:Key="Email">Электронная почта</sys:String>
+    <sys:String x:Key="Password">Пароль</sys:String>
+    <sys:String x:Key="RepeatPassword">Повторите пароль</sys:String>
+    <sys:String x:Key="Role">Тип аккаунта</sys:String>
+    <sys:String x:Key="User">Пользователь</sys:String>
+    <sys:String x:Key="Admin">Администратор</sys:String>
+    <sys:String x:Key="RegisterButton">Зарегистрироваться</sys:String>
+    <sys:String x:Key="LoginButton">Войти</sys:String>
+</ResourceDictionary>
